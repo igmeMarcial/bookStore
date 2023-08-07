@@ -6,6 +6,8 @@ using System.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
 using bookStore.Models;
+using Newtonsoft.Json.Linq;
+using System.Reflection;
 
 
 namespace bookStore.Controllers
@@ -29,6 +31,7 @@ namespace bookStore.Controllers
             return View();
         }
 
+        /*
         public IActionResult Listar()
         {
             List<MyBookList> myBooks = new List<MyBookList>();
@@ -55,6 +58,40 @@ namespace bookStore.Controllers
 
             return View(myBooks);
         }
+        */
+        public IActionResult Listar()
+        {
+            IEnumerable<MyBookList> myBooks = Enumerable.Empty<MyBookList>(); // Inicializa como enumerable vacío
+
+            using (SqlConnection connection = new SqlConnection(cadena))
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("sp_GetAllMyBooks", connection);
+                command.CommandType = CommandType.StoredProcedure;
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    myBooks = myBooks.Append(new MyBookList()
+                    {
+                        Id = reader.GetInt32(0),
+                        Name = reader.GetString(1),
+                        Author = reader.GetString(2),
+                        Price = reader.GetDecimal(3)
+                    });
+                }
+            }
+
+            return View(myBooks);
+        }
+    
+
+
+
+
+
+
 
         [HttpGet]
         public IActionResult Ingresar()
@@ -78,7 +115,7 @@ namespace bookStore.Controllers
                 command.ExecuteNonQuery();
             }
 
-            return RedirectToAction("Listar");
+            return RedirectToAction("Listar","MyBook");
         }
 
         [HttpGet]

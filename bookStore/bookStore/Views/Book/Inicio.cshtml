@@ -5,6 +5,7 @@
 }
 
 @model IEnumerable<bookStore.Models.Book>
+
 <link rel="stylesheet" href="~/css/EcommerceStyle.css" asp-append-version="true" />
 <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
@@ -71,11 +72,27 @@
                                 <!-- 
                                 <a href="#" title="Add To Cart">
                                     <i class="fas fa-shopping-bag"></i>
-                                </a>-->
+                                </a>
 
-                                <a href="@Url.Action("Agregar", new { id = item.Id })" title="Add To Cart">
+                                <a href="@Url.Action("Ingresar", "MyBook", new { id = item.Id })" title="Add To Cart">
                                     <i class="fas fa-shopping-bag"></i>
                                 </a>
+                                -->
+                                <!-- 
+                                <form method="post" asp-controller="MyBook" asp-action="Ingresar">
+                                    <input type="hidden" name="Name" value="@item.Name" />
+                                    <input type="hidden" name="Author" value="@item.Author" />
+                                    <input type="hidden" name="Price" value="@item.Price" />
+
+                                    <button type="submit" title="Add To Cart">
+                                        <i class="fas fa-shopping-bag"></i>
+                                    </button>
+                                </form>
+                                -->
+                                <a href="#" title="Add To Cart" class="add-to-cart" data-id="@item.Id" data-name="@item.Name" data-author="@item.Author" data-price="@item.Price">
+                                    <i class="fas fa-shopping-bag"></i>
+                                </a>
+                               
 
 
 
@@ -223,5 +240,34 @@
         });
     });
 </script>
+<script>
+    $(document).ready(function () {
+        $(".add-to-cart").click(function (e) {
+            e.preventDefault();
 
+            var id = $(this).data("id");
+            var name = $(this).data("name");
+            var author = $(this).data("author");
+            var price = $(this).data("price");
+
+            $.ajax({
+                url: '@Url.Action("Ingresar", "MyBook")',
+                type: 'POST',
+                data: {
+                    Name: name,
+                    Author: author,
+                    Price: price
+                },
+                success: function () {
+                    // Aquí puedes realizar alguna acción después de agregar al carrito
+                    alert("Libro agregado al carrito");
+                },
+                error: function () {
+                    // Aquí puedes manejar el error si ocurre algún problema
+                    alert("Error al agregar al carrito");
+                }
+            });
+        });
+    });
+</script>
 

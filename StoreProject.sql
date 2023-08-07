@@ -74,6 +74,8 @@ BEGIN
 END;
 
 -- segundo trabla miListbooks
+
+
 CREATE PROCEDURE sp_InsertMyBook
     @Name VARCHAR(255),
     @Author VARCHAR(255),
@@ -91,6 +93,7 @@ BEGIN
     SELECT * FROM my_books;
 END;
 
+exec sp_GetAllMyBooks
 
 CREATE PROCEDURE sp_UpdateMyBook
     @Id INT,

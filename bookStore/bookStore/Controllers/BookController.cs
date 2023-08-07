@@ -212,5 +212,19 @@ namespace bookStore.Controllers
 
             return RedirectToAction("Listar");
         }
+        Book buscar(int id)
+        {
+            Book reg= ListarLibrosEnumerable().Where(p=>p.Id == id).FirstOrDefault();
+            if(reg == null)
+            {
+                reg = new Book();
+
+            }
+            return reg;
+        }
+        public async Task<IActionResult> Agregar(int id = 0)
+        {
+            return View(await Task.Run(() => buscar(id)));
+        }
     }
 }

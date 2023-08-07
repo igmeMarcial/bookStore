@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\EcommerceStyle.css"
     },
     {
+      "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
       "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\css\\inicio.css",
       "PackagePath": "staticwebassets\\css\\inicio.css"
     },

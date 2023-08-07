@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wwGMJU+YTo3amXHPlPpzvInNmNpf+kVi9kmJw2/+DVY=",
+  "Hash": "fMT6B9g91GiLisLJ2yZhYmDlQSaZcBKyOrB17OHdszg=",
   "Source": "bookStore",
   "BasePath": "_content/bookStore",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\bookStore.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\css\\cart.css",
+      "SourceId": "bookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\",
+      "BasePath": "_content/bookStore",
+      "RelativePath": "css/cart.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cart.css"
     },
     {
       "Identity": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\css\\EcommerceStyle.css",
