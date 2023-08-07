@@ -950,3 +950,21 @@
         margin-top: 10px;
     }
 }
+
+
+.remove {
+    width: 78px;
+    height: 38px;
+    background-color: #FF8A80;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    color: gray;
+}
+
+  .remove .hidden {
+       
+    }
+
+ .remove i {
+     
+    }
