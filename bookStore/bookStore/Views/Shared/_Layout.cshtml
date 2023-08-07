@@ -4,56 +4,240 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - bookStore</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/bookStore.styles.css" asp-append-version="true" />
-
-    <link rel="stylesheet" href="~/css/inicio.css"  />
+    <link rel="stylesheet" href="~/bookStore.styles.css" asp-append-version="true" />-->
+    <link rel="stylesheet" href="~/css/EcommerceStyle.css" asp-append-version="true" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    
 </head>
 <body>
-    <header >
-        <nav id="top" class="navbar navbar-expand-md navbar-light bg-light d-flex  px-5">
-            <a class="navbar-brand pl-3" href="#">
-                <h1 class="h3 font-weight-bold">Tiendita</h1>
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon">
-                    <i id="icon" class="h3 fas fa-bars"></i>
-                </span>
-
-            </button>
-            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-                <ul class="navbar-nav">
-                    <li class="nav-item active h5 font-weight-normal px-3">
-                        <a class="nav-link" href="#">Incio <span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item h5 font-weight-normal px-3">
-                        <a class="nav-link" href="#">Libros</a>
-                    </li>
-                    <li class="nav-item h5 font-weight-normal px-3">
-                        <a class="nav-link" href="#">Mis libros</a>
-                    </li>
-                    <li class="nav-item h5 font-weight-normal px-3">
-                        <a class="nav-link" href="#">Contacto</a>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="social h4 pr-3">
-                <a href="" class="px-2">
+    <header class="header">
+        <!--UPPER BAR-->
+        <div class="social-call">
+            <div class="social">
+                <a href="https://www.facebook.com/TeamIgmeMusic/">
                     <i class="fab fa-facebook"></i>
                 </a>
-                <a href="" class="px-2">
-                    <i class="fab fa-twitter"></i>
-                </a>
-                <a href="" class="px-2">
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#">
                     <i class="fab fa-instagram"></i>
                 </a>
-                <a href="" class="px-2">
-                    <i class="fab fa-linkedin"></i>
+                <a href="#">
+                    <i class="fab fa-twitter"></i>
                 </a>
             </div>
-        </nav>
+            <div class="phone">
+                <span>Call +51 964 350 071</span>
+            </div>
+        </div>
+        <!--END OF UPPER BAR-->
+        <div class="container">
+            <div class="row v-center">
+                <div class="header-item item-left">
+                    <div class="logo"><a href="#">EbookMarket</a></div>
+                </div>
+                <div class="header-item item-center">
+                    <div class="menu-overlay"></div>
+                    <nav class="menu">
+                        <div class="mobile-menu-head">
+                            <div class="go-back"><i class="fas fa-angle-left"></i></div>
+                            <div class="current-menu-title"></div>
+                            <div class="mobile-menu-close">&times;</div>
+                        </div>
+                        <ul class="menu-main">
+                            <li>
+                                <a href="#">Precios</a>
+                            </li>
+
+                            <li class="menu-item-has-children">
+                                <a href="#">Destacados <i class="fas fa-angle-down"></i></a>
+                                <div class="sub-menu mega-menu mega-menu-column-4">
+                                    <div class="list-item text-center">
+                                        <a href="#">
+                                            <img class="show-img"
+                                                 src="./imagenes/4824032.jpg"
+                                                 alt="" />
+                                            <h2 class="title">Novela</h2>
+                                        </a>
+                                    </div>
+
+                                    <div class="list-item text-center">
+                                        <a href="#">
+                                            <img class="show-img"
+                                                 src="./imagenes/4824032.jpg"
+                                                 alt="" />
+                                            <h2 class="title">Ciencia ficción</h2>
+                                        </a>
+                                    </div>
+
+                                    <div class="list-item text-center">
+                                        <a href="#">
+                                            <img class="show-img"
+                                                 src="./imagenes/4824032.jpg"
+                                                 alt="" />
+                                            <h2 class="title">Fantasía</h2>
+                                        </a>
+                                    </div>
+
+                                    <div class="list-item text-center">
+                                        <a href="#">
+                                            <img class="show-img"
+                                                 src="./imagenes/4824032.jpg"
+                                                 alt="" />
+                                            <h2 class="title">Romance</h2>
+                                        </a>
+                                    </div>
+
+                                    <div class="list-item text-center">
+                                        <a href="#">
+                                            <img class="show-img"
+                                                 src="./imagenes/4824032.jpg"
+                                                 alt="" />
+                                            <h2 class="title">Terror</h2>
+                                        </a>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="menu-item-has-children">
+                                <!--SALE LABEL-->
+                                <div class="sale-design">
+                                    <span class="sale-label">Sale</span>
+                                </div>
+
+                                <a href="#">Productos<i class="fas fa-angle-down"></i></a>
+                                <div class="sub-menu mega-menu mega-menu-column-4">
+                                    <div class="list-item">
+                                        <h2 class="title">Terror</h2>
+                                        <ul>
+                                            <li><a href="#">El Exorcista</a></li>
+                                            <li><a href="#">Drácula</a></li>
+                                            <li><a href="#">It</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="list-item">
+                                        <h2 class="title">Ciencia Ficción</h2>
+                                        <ul>
+                                            <li><a href="#">1984</a></li>
+                                            <li><a href="#">Dune</a></li>
+                                            <li><a href="#">Fahrenheit 451</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="list-item">
+                                        <h2 class="title">Fantasía</h2>
+                                        <ul>
+                                            <li><a href="#">El Señor de los Anillos</a></li>
+                                            <li><a href="#">Canción de Hielo y Fuego</a></li>
+                                            <li><a href="#">Harry Potter</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="list-item">
+                                        <h2 class="title">Misterio</h2>
+                                        <ul>
+                                            <li><a href="#">El Código Da Vinci</a></li>
+                                            <li><a href="#">Asesinato en el Orient Express</a></li>
+                                            <li><a href="#">La Chica del Tren</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="list-item">
+                                        <img src="./imagenes/4828957.jpg"
+                                             alt="igme" />
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li>
+                                <a href="#">Soporte</a>
+                            </li>
+
+                            <li>
+                                <a href="#">Descubre</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="header-item item-right">
+                    <a href="#" class="search">
+                        <i class="fas fa-search"></i>
+                    </a>
+                    <a href="#" class="user">
+                        <i class="far fa-user"></i>
+                    </a>
+                    <a href="#">
+                        <i class="fas fa-shopping-cart">
+                            <!--NUMBER OF PRODUCTS IN CART-->
+                            <span class="num-cart-product">1</span>
+                        </i>
+                    </a>
+
+                    <div class="mobile-menu-trigger">
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!--SEARCH-->
+    <div class="search-bar">
+        <div class="search-input">
+            <input type="text" placeholder="Search For Product" />
+            <a href="#" class="search-cancel">
+                <i class="fas fa-times"></i>
+            </a>
+        </div>
+    </div>
+    <!--END OF SEARCH-->
+    <!--LOGIN & SIGN UP FORM-->
+    <div class="form">
+        <div class="login-form">
+            <!--CANCEL FORM BTN-->
+            <a href="#  " class="form-cancel">
+                <i class="fas fa-times"></i>
+            </a>
+
+            <strong>Iniciar Sesion</strong>
+            <form action="#">
+                <input type="email" placeholder="marcialigme@gmail.com" name="email" />
+                <input type="password" placeholder="Password" name="password" />
+
+                <input type="submit" value="Log In" />
+            </form>
+
+            <!--FORGET & SIGN UP BUTTON-->
+            <div class="form-btns">
+                <a href="#" class="forget">Olvidaste tu contrseña?</a>
+                <a href="#" class="sign-up-btn">Crear cuenta</a>
+            </div>
+            <!--END OF FORGET & SIGN UP-->
+        </div>
+
+        <div class="sign-up-form">
+            <!--CANCEL FORM BTN-->
+            <a href="#" class="form-cancel">
+                <i class="fas fa-times"></i>
+            </a>
+
+            <strong>Iniciar Sesion</strong>
+            <form action="#">
+                <input type="text" placeholder="Nombre" name="fullname" />
+                <input type="email" placeholder="Exemple@gmail.com" name="email" />
+                <input type="password" placeholder="Contraseña" name="password" />
+
+                <input type="submit" value="Sign up" />
+            </form>
+
+            <!--FORGET & SIGN UP BUTTON-->
+            <div class="form-btns">
+                <a href="#" class="already-account">Ya tienes cuenta?</a>
+            </div>
+            <!--END OF FORGET & SIGN UP-->
+        </div>
+    </div>
+    <!--END OF LOGIN & SIGN UP FORM-->
 
 <!-- 
 
@@ -77,12 +261,12 @@
             </div>
         </nav>
         -->
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
+    
+    
+     
             @RenderBody()
-        </main>
-    </div>
+        
+   
 
     <footer class="border-top footer text-muted">
         <div class="container">

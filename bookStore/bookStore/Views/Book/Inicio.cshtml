@@ -5,7 +5,223 @@
 }
 
 @model IEnumerable<bookStore.Models.Book>
+<link rel="stylesheet" href="~/css/EcommerceStyle.css" asp-append-version="true" />
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  
 
-    <link  rel="stylesheet" href="~/css/EcommerceStyle.css"/>
-<h1>Inicio</h1>
+
+
+<!--FULL PAGE SLIDER-->
+
+<ul id="#adaptive" class="cs-hidden">
+    <!--BOX 1-->
+    <li class="item-a">
+        <!--BOX-->
+        <div class="full-slider-box f-slide-1">
+            <div class="slider-text-container">
+                <div class="f-slider-text">
+                    <span>Oferta ilimitada</span>
+                    <strong>
+                        30% desc <br />
+                        con <font>codigo de promocion</font>
+                    </strong>
+                    <a href="#" class="f-slider-btn">Comprar</a>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul>
+
+<!--end of FULL PAGE SLIDER-->
+
+<section class="product-list">
+    <div class="container">
+        <h2 class="product-title">Prodcutos destacados</h2>
+        <div class="row">
+            <!--STRT ITEM-->
+            @foreach(var item in Model)
+            {
+                <div class="item">
+                    <div class="product">
+                        <div class="product-thumb">
+                            <img src="@Url.Content(string.Format("~/imagenes/{0}.jpg",   item.Id))"
+                             alt=""
+                             class="pro-thumb-img" />
+
+                            <div class="product-styles">
+                                <span class="active-style"
+                                  data-image="https://d2p7wwv96gt4xt.cloudfront.net/G/B613F7F2/EAN-9780316556323"
+                                  style="background-color: darkslategray"></span>
+
+                                <span class=""
+                                  data-image="https://d2p7wwv96gt4xt.cloudfront.net/G/2BD9E741/EAN-9780143111061"
+                                  style="background-color: deeppink"></span>
+
+                                <span class=""
+                                  data-image="https://d2p7wwv96gt4xt.cloudfront.net/G/7B2AD68D/EAN-9780425285978"
+                                  style="background-color: dodgerblue"></span>
+                            </div>
+                            <div class="product-button">
+                                <a href="#" title="Quick View">
+                                    <i class="fas fa-eye"></i>
+                                </a>
+
+                                <!-- 
+                                <a href="#" title="Add To Cart">
+                                    <i class="fas fa-shopping-bag"></i>
+                                </a>-->
+
+                                <a href="@Url.Action("Agregar", new { id = item.Id })" title="Add To Cart">
+                                    <i class="fas fa-shopping-bag"></i>
+                                </a>
+
+
+
+                                <a href="#" title="Wishlist">
+                                    <i class="far fa-heart"></i>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="product-info">
+                            <h3 class="product-name">@Html.DisplayFor(modelItem => item.Name)</h3>
+                            <p class="product-price first">@Html.DisplayFor(modelItem => item.Price)</p>
+                            <p class="product-price">@Html.DisplayFor(modelItem => item.Price)</p>
+
+                            <div class="off-info">
+                                <h2 class="sm-title">10% OFF</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }          
+            <!--END ITEM-->
+        </div>
+    </div>
+</section>
+
+<script>
+    const menu = document.querySelector(".menu");
+    const menuMain = menu.querySelector(".menu-main");
+    const menuTrigger = document.querySelector(".mobile-menu-trigger");
+    const goBack = menu.querySelector(".go-back");
+    const closeMenu = menu.querySelector(".mobile-menu-close");
+
+    let subMenu;
+    menuMain.addEventListener("click", (e) => {
+        if (e.target.closest(".menu-item-has-children")) {
+            const hasChildren = e.target.closest(".menu-item-has-children");
+            showSubMenu(hasChildren);
+        }
+    });
+
+    goBack.addEventListener("click", () => {
+        hideSubMenu();
+    });
+
+    menuTrigger.addEventListener("click", () => {
+        toggleMenu();
+    });
+
+    closeMenu.addEventListener("click", () => {
+        toggleMenu();
+    });
+
+    document.querySelector(".menu-overlay").addEventListener("click", () => {
+        toggleMenu();
+    });
+
+    function toggleMenu() {
+        menu.classList.toggle("active");
+        document.querySelector(".menu-overlay").classList.toggle("active");
+    }
+
+    function showSubMenu(hasChildren) {
+        subMenu = hasChildren.querySelector(".sub-menu");
+        subMenu.classList.add("active");
+        subMenu.style.animation = "slideLeft 0.5s ease forwards";
+        const menuTitle =
+            hasChildren.querySelector("i").parentNode.childNodes[0].textContent;
+        menu.querySelector(".current-menu-title").innerHTML = menuTitle;
+        menu.querySelector(".mobile-menu-head").classList.add("active");
+    }
+
+    function hideSubMenu() {
+        subMenu.style.animation = "slideRight 0.5s ease forwards";
+        setTimeout(() => {
+            subMenu.classList.remove("active");
+        }, 300);
+        menu.querySelector(".current-menu-title").innerHTML = "";
+        menu.querySelector(".mobile-menu-head").classList.remove("active");
+    }
+
+    window.onresize = function () {
+        if (this.innerWidth > 991) {
+            if (menu.classList.containes("active")) {
+                toggleMenu();
+            }
+        }
+    };
+
+    const productStyles = document.querySelectorAll(".product-styles");
+
+    for (let i = 0; i < productStyles.length; i++) {
+        for (let j = 0; j < productStyles[i].children.length; j++) {
+            productStyles[i].children[j].addEventListener("click", function () {
+                const productThumb = this.parentElement.parentElement;
+                const proThumbImage = productThumb.querySelector(".pro-thumb-img");
+                proThumbImage.src = this.getAttribute("data-image");
+                updateStyle(j, this.parentElement);
+            });
+        }
+    }
+
+    function updateStyle(numb, proStyle) {
+        for (let i = 0; i < proStyle.children.length; i++) {
+            if (i == numb) {
+                proStyle.children[i].classList.add("active-style");
+            } else {
+                proStyle.children[i].classList.remove("active-style");
+            }
+        }
+    }
+
+    // Search BUtton
+
+    $(document).on("click", ".search", function () {
+        $(".search-bar").addClass("search-bar-active");
+    });
+
+    $(document).on("click", ".search-cancel", function () {
+        $(".search-bar").removeClass("search-bar-active");
+    });
+
+    //LOGIN SIGN UP FORM
+
+    $(document).on("click", ".user, .already-account", function () {
+        $(".form").addClass("login-active").removeClass("sign-up-active");
+    });
+
+    $(document).on("click", ".sign-up-btn", function () {
+        $(".form").addClass("sign-up-active").removeClass("login-active");
+    });
+
+    $(document).on("click", ".form-cancel", function () {
+        $(".form").removeClass("login-active").removeClass("sign-up-active");
+    });
+
+    // FULL SLIDER SCRIPT
+
+    $(document).ready(function () {
+        $("#adaptive").lightSlider({
+            adaptiveHeight: true,
+            item: 1,
+            slideMargin: 0,
+            loop: true,
+        });
+    });
+</script>
+
 

@@ -13,12 +13,28 @@
       "PackagePath": "staticwebassets\\css\\inicio.css"
     },
     {
+      "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\css\\inicioE.scss",
+      "PackagePath": "staticwebassets\\css\\inicioE.scss"
+    },
+    {
       "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\1.jpg"
+    },
+    {
+      "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\2.jpg"
+    },
+    {
+      "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\3.jpg"
     },
     {
       "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\4824032.jpg",
@@ -51,6 +67,10 @@
     {
       "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\7189559.jpg",
       "PackagePath": "staticwebassets\\imagenes\\7189559.jpg"
+    },
+    {
+      "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\banner.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banner.jpg"
     },
     {
       "Id": "E:\\GitHubRepository\\bookStoreApp\\bookStore\\bookStore\\wwwroot\\imagenes\\bookmain.jpg",
