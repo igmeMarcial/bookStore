@@ -86,6 +86,8 @@ BEGIN
     VALUES (@Name, @Author, @Price)
 END;
 
+drop procedure sp_InsertMyBook
+
 
 CREATE PROCEDURE sp_GetAllMyBooks
 AS
@@ -121,3 +123,49 @@ BEGIN
     SELECT * FROM my_books WHERE Id = @Id;
 END;
 
+-- LOGIN  NO IMPLEMENTADO
+
+CREATE TABLE usuario (
+ idUsuario int primary key identity(1,1),
+ correo  varchar(100),
+ contraseña varchar(500)
+
+)
+CREATE PROCEDURE sp_RegistrarUsuario(
+    @correo varchar(100),
+    @contraseña varchar(500),
+	@Registrado bit output,
+	@Mensaje varchar(100)
+	)
+AS
+BEGIN
+    -- Verificar si el correo ya está registrado
+    IF EXISTS (SELECT * FROM usuario WHERE correo = @correo)
+    BEGIN
+        INSERT INTO usuario (correo, contraseña) VALUES (@correo, @contraseña)
+		set @Registrado = 1
+		set @Mensaje = 'Usario Registrado'
+    END
+	else
+	 BEGIN
+		set @Registrado = 0
+		set @Mensaje = 'correo ya existe'
+	 end
+    
+END;
+
+CREATE PROCEDURE sp_ValidarUsuario(
+    @correo varchar(100),
+    @contraseña varchar(500)
+ )
+AS
+BEGIN
+    -- Verificar si el correo y la contraseña coinciden
+    IF( EXISTS (SELECT * FROM usuario WHERE correo = @correo AND contraseña = @contraseña))
+    
+          SELECT idUsuario FROM usuario WHERE correo = @correo AND contraseña = @contraseña;
+    
+    ELSE
+		select '0'
+    
+END;
