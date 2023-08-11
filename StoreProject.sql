@@ -24,6 +24,13 @@ INSERT INTO book (name, author, price) VALUES
   ('Libro 2', 'Autor 2', 29.99),
   ('Libro 3', 'Autor 3', 39.99);
 
+  INSERT INTO book (name, author, price) VALUES
+  ('The Great Gatsby', 'F. Scott Fitzgerald', 12.99),
+  ('To Kill a Mockingbird', 'Harper Lee', 10.99),
+  ('1984', 'George Orwell', 9.99),
+  ('Pride and Prejudice', 'Jane Austen', 8.99),
+  ('The Catcher in the Rye', 'J.D. Salinger', 11.99);
+
 
 
  CREATE PROCEDURE sp_InsertBook
