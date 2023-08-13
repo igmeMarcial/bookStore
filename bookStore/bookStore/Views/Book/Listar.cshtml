@@ -37,9 +37,10 @@
                 <td>@Html.DisplayFor(modelItem => item.Author)</td>
                 <td>@Html.DisplayFor(modelItem => item.Price)</td>
                 <td>
-                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })
-                    @Html.ActionLink("Details", "Details", new { id = item.Id }, new { @class = "btn btn-info" })
-                    @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+                    @Html.ActionLink("Edit", "Editar", new { id = item.Id }, new { @class = "btn btn-primary" })
+                    
+                    
+                      @Html.ActionLink("Delete", "Eliminar", new { id = item.Id }, new { @class = "btn btn-danger eliminar-btn", data_id = item.Id })
                 </td>
             </tr>
         }
@@ -47,3 +48,43 @@
 </table>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.18/dist/sweetalert2.all.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $(".eliminar-btn").click(function (e) {
+            e.preventDefault();
+            var id = $(this).data("id");
+            Swal.fire({
+                title: 'Eliminar Registro',
+                text: "¿Usted desea eliminar el registro?",
+                icon: 'warning',
+                showCancelButton: true,
+                confirmButtonColor: '#3085d6',
+                cancelButtonColor: '#d33',
+                confirmButtonText: 'Sí, eliminar',
+                cancelButtonText: 'Cancelar'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    var url = '@Url.Action("Eliminar", "Book")/' + id;
+                    $.ajax({
+                        url: url,
+                        type: 'POST',
+                        success: function (r) {
+                            console.log(r);
+                            // Recargar la página después de la eliminación exitosa
+                            location.reload();
+                        },
+                        error: function (xhr, status, error) {
+                            console.log(xhr.responseText);
+                            // Mostrar mensaje de error en caso de fallar la eliminación
+                            Swal.fire('Error', 'Ha ocurrido un error al eliminar el registro', 'error');
+                        }
+                    });
+                }
+            });
+        });
+    });
+</script>
+

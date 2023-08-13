@@ -166,38 +166,8 @@ namespace bookStore.Controllers
             return RedirectToAction("Listar");
         }
 
-        [HttpGet]
-        public IActionResult Eliminar(int id)
-        {
-            using (SqlConnection connection = new SqlConnection(cadena))
-            {
-                connection.Open();
-                SqlCommand command = new SqlCommand("sp_GetBookById", connection);
-                command.CommandType = CommandType.StoredProcedure;
-
-                command.Parameters.AddWithValue("@Id", id);
-
-                SqlDataReader reader = command.ExecuteReader();
-
-                if (reader.Read())
-                {
-                    Book book = new Book()
-                    {
-                        Id = reader.GetInt32(0),
-                        Name = reader.GetString(1),
-                        Author = reader.GetString(2),
-                        Price = reader.GetDecimal(3)
-                    };
-
-                    return View(book);
-                }
-            }
-
-            return RedirectToAction("Listar");
-        }
-
         [HttpPost]
-        public IActionResult EliminarConfirmed(int id)
+        public IActionResult Eliminar(int id)
         {
             using (SqlConnection connection = new SqlConnection(cadena))
             {
@@ -212,6 +182,8 @@ namespace bookStore.Controllers
 
             return RedirectToAction("Listar");
         }
+
+
         Book buscar(int id)
         {
             Book reg= ListarLibrosEnumerable().Where(p=>p.Id == id).FirstOrDefault();
