@@ -21,5 +21,7 @@ namespace bookStore.Models
         [Display(Name = "Precio")]
         [DisplayFormat(DataFormatString = "{0:C}")]
         public decimal Price { get; set; }
+
+           public string? ImageUrl { get; set; }
     }
 }

@@ -1,343 +1,359 @@
 {
   "Files": [
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\bookStore.bundle.scp.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\bookStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\bookStore.bundle.scp.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\css\\EcommerceStyle.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\css\\EcommerceStyle.css",
       "PackagePath": "staticwebassets\\css\\EcommerceStyle.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\css\\cart.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\css\\cart.css",
       "PackagePath": "staticwebassets\\css\\cart.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\css\\inicio.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\css\\inicio.css",
       "PackagePath": "staticwebassets\\css\\inicio.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\css\\inicioE.scss",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\css\\inicioE.scss",
       "PackagePath": "staticwebassets\\css\\inicioE.scss"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\css\\site.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\favicon.ico",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\1.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\1.jpg",
       "PackagePath": "staticwebassets\\imagenes\\1.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\10.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\10.jpg",
       "PackagePath": "staticwebassets\\imagenes\\10.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\11.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\11.jpg",
       "PackagePath": "staticwebassets\\imagenes\\11.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\12.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\12.jpg",
       "PackagePath": "staticwebassets\\imagenes\\12.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\13.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\13.jpg",
       "PackagePath": "staticwebassets\\imagenes\\13.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\14.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\14.jpg",
       "PackagePath": "staticwebassets\\imagenes\\14.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\15.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\15.jpg",
       "PackagePath": "staticwebassets\\imagenes\\15.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\16.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\16.jpg",
       "PackagePath": "staticwebassets\\imagenes\\16.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\17.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\17.jpg",
       "PackagePath": "staticwebassets\\imagenes\\17.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\2.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\2.jpg",
       "PackagePath": "staticwebassets\\imagenes\\2.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\3.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\3.jpg",
       "PackagePath": "staticwebassets\\imagenes\\3.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\4.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\4.jpg",
       "PackagePath": "staticwebassets\\imagenes\\4.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\5.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\5.jpg",
       "PackagePath": "staticwebassets\\imagenes\\5.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\6.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\6.jpg",
       "PackagePath": "staticwebassets\\imagenes\\6.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\7.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\7.jpg",
       "PackagePath": "staticwebassets\\imagenes\\7.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\8.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\8.jpg",
       "PackagePath": "staticwebassets\\imagenes\\8.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\9.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\9.jpg",
       "PackagePath": "staticwebassets\\imagenes\\9.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\banner.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\banner.jpg",
       "PackagePath": "staticwebassets\\imagenes\\banner.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\bookmain.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\banneralternativo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banneralternativo.jpg"
+    },
+    {
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\banneralternativo.jpg.png",
+      "PackagePath": "staticwebassets\\imagenes\\banneralternativo.jpg.png"
+    },
+    {
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\bookmain.jpg",
       "PackagePath": "staticwebassets\\imagenes\\bookmain.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\imagenes\\books.jpg",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\books.jpg",
       "PackagePath": "staticwebassets\\imagenes\\books.jpg"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\js\\site.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\odisea.png",
+      "PackagePath": "staticwebassets\\imagenes\\odisea.png"
+    },
+    {
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\imagenes\\odiseabanner.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\odiseabanner.jpg"
+    },
+    {
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\GitHubRepository\\bookStore\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\Alonzo\\bookStore BARREDA ESPINOZA JOSE\\bookStore BARREDA ESPINOZA JOSE\\bookStore\\bookStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

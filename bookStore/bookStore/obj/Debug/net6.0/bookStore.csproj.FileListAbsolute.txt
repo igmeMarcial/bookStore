@@ -492,3 +492,756 @@ E:\GitHubRepository\bookStore\bookStore\bookStore\obj\Debug\net6.0\refint\bookSt
 E:\GitHubRepository\bookStore\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
 E:\GitHubRepository\bookStore\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
 E:\GitHubRepository\bookStore\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bookStore.staticwebassets.runtime.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bookStore.exe
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bookStore.deps.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bookStore.runtimeconfig.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bookStore.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bookStore.pdb
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.AssemblyReference.cache
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfo.cs
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.RazorAssemblyInfo.cache
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.RazorAssemblyInfo.cs
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.bookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.bookStore.props
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bookStore.props
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bookStore.props
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\scopedcss\bundle\bookStore.styles.css
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\scopedcss\projectbundle\bookStore.bundle.scp.css
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CopyComplete
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\refint\bookStore.dll
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
+C:\Users\Alonso\Desktop\bookStore-main\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.staticwebassets.runtime.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.exe
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.deps.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.runtimeconfig.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.pdb
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.AssemblyReference.cache
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfo.cs
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.RazorAssemblyInfo.cache
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.RazorAssemblyInfo.cs
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.bookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.bookStore.props
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bookStore.props
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bookStore.props
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\scopedcss\bundle\bookStore.styles.css
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\scopedcss\projectbundle\bookStore.bundle.scp.css
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CopyComplete
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\refint\bookStore.dll
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
+C:\Users\Alonso\Desktop\Cibertec Ciclo V\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\appsettings.Development.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\appsettings.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.staticwebassets.runtime.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.exe
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.deps.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.runtimeconfig.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bookStore.pdb
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Azure.Core.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Azure.Identity.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Humanizer.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\MessagePack.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Common.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.AssemblyReference.cache
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfoInputs.cache
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfo.cs
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CoreCompileInputs.cache
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.RazorAssemblyInfo.cache
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.RazorAssemblyInfo.cs
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.sourcelink.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\scopedcss\bundle\bookStore.styles.css
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\scopedcss\projectbundle\bookStore.bundle.scp.css
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.bookStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.bookStore.props
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.bookStore.props
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.bookStore.props
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\refint\bookStore.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.ClientModel.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Alonzo\bookStore BARREDA ESPINOZA JOSE\bookStore BARREDA ESPINOZA JOSE\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CopyComplete

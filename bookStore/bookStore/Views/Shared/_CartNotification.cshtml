@@ -1,0 +1,54 @@
+@* Views/Shared/_CartNotification.cshtml *@
+<div class="toast-container position-fixed top-0 end-0 p-3">
+    <div id="cartToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header bg-success text-white">
+            <i class="fas fa-check-circle me-2"></i>
+            <strong class="me-auto">Carrito</strong>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+            Producto añadido al carrito
+        </div>
+    </div>
+</div>
+
+<style>
+    .toast-container {
+        z-index: 1056;
+        visibility: hidden;
+    }
+
+    #cartToast {
+        min-width: 250px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        border-radius: 8px;
+        border: none;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    #cartToast.showing {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .toast-container.show {
+        visibility: visible;
+    }
+
+    #cartToast .toast-header {
+        border-radius: 8px 8px 0 0;
+        padding: 0.75rem 1rem;
+    }
+
+    #cartToast .toast-body {
+        padding: 1rem;
+        font-size: 0.9rem;
+    }
+
+    .btn-close-white {
+        filter: brightness(0) invert(1);
+    }
+</style>
+
+<script src="~/js/cart.js"></script>

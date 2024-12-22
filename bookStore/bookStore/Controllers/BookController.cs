@@ -1,7 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
 using Microsoft.Extensions.Configuration;
-using Microsoft.Data.SqlClient;
+
+using Npgsql;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
+
 using System.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
@@ -15,52 +20,54 @@ namespace bookStore.Controllers
 {
     public class BookController : Controller
     {
-        public readonly IConfiguration _config;
+        private readonly IConfiguration _config;
         private string cadena;
-
 
         public BookController(IConfiguration _config)
         {
             this._config = _config;
             this.cadena = _config["ConnectionStrings:connection"];
         }
+
         public async Task<IActionResult> Inicio()
         {
-            if(HttpContext.Session.GetString("carrito")== null)
+            if(HttpContext.Session.GetString("carrito") == null)
             {
-                HttpContext.Session.SetString("carrito",JsonConvert.SerializeObject(new List<Book>()));
+                HttpContext.Session.SetString("carrito", JsonConvert.SerializeObject(new List<Book>()));
             }
-            return View(await Task.Run(()=> ListarLibrosEnumerable()));
+            return View(await Task.Run(() => ListarLibrosEnumerable()));
         }
-
 
         public IActionResult Index()
         {
             return View();
         }
 
-
         public IEnumerable<Book> ListarLibrosEnumerable()
         {
             List<Book> books = new List<Book>();
 
-            using (SqlConnection connection = new SqlConnection(cadena))
+            using (var connection = new NpgsqlConnection(cadena))
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("sp_GetAllBooks", connection);
-                command.CommandType = CommandType.StoredProcedure;
-
-                SqlDataReader reader = command.ExecuteReader();
-
-                while (reader.Read())
+                using (var command = new NpgsqlCommand("SELECT * FROM public.sp_getallbooks()", connection))
                 {
-                    books.Add(new Book()
+                    command.CommandType = CommandType.Text;
+
+                    using (var reader = command.ExecuteReader())
                     {
-                        Id = reader.GetInt32(0),
-                        Name = reader.GetString(1),
-                        Author = reader.GetString(2),
-                        Price = reader.GetDecimal(3)
-                    });
+                        while (reader.Read())
+                        {
+                            books.Add(new Book()
+                            {
+                                Id = reader.GetInt32(0),
+                                Name = reader.GetString(1),
+                                Author = reader.GetString(2),
+                                Price = reader.GetDecimal(3),
+                                ImageUrl = reader.IsDBNull(4) ? null : reader.GetString(4)
+                            });
+                        }
+                    }
                 }
             }
 
@@ -71,28 +78,33 @@ namespace bookStore.Controllers
         {
             List<Book> books = new List<Book>();
 
-            using (SqlConnection connection = new SqlConnection(cadena))
+            using (var connection = new NpgsqlConnection(cadena))
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("sp_GetAllBooks", connection);
-                command.CommandType = CommandType.StoredProcedure;
-
-                SqlDataReader reader = command.ExecuteReader();
-
-                while (reader.Read())
+                using (var command = new NpgsqlCommand("SELECT * FROM sp_GetAllBooks()", connection))
                 {
-                    books.Add(new Book()
+                   
+
+                    using (var reader = command.ExecuteReader())
                     {
-                        Id = reader.GetInt32(0),
-                        Name = reader.GetString(1),
-                        Author = reader.GetString(2),
-                        Price = reader.GetDecimal(3)
-                    });
+                        while (reader.Read())
+                        {
+                            books.Add(new Book()
+                            {
+                                Id = reader.GetInt32(0),
+                                Name = reader.GetString(1),
+                                Author = reader.GetString(2),
+                                Price = reader.GetDecimal(3),
+                                ImageUrl = reader.IsDBNull(4) ? null : reader.GetString(4)
+                            });
+                        }
+                    }
                 }
             }
 
             return View(books);
         }
+
         public IActionResult Ingresar()
         {
             return View();
@@ -101,17 +113,20 @@ namespace bookStore.Controllers
         [HttpPost]
         public IActionResult Ingresar(Book book)
         {
-            using (SqlConnection connection = new SqlConnection(cadena))
+            using (var connection = new NpgsqlConnection(cadena))
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("sp_InsertBook", connection);
-                command.CommandType = CommandType.StoredProcedure;
+                using (var command = new NpgsqlCommand("SELECT sp_InsertBook(@Name, @Author, @Price, @ImageUrl)", connection))
+                {
+                    
 
-                command.Parameters.AddWithValue("@Name", book.Name);
-                command.Parameters.AddWithValue("@Author", book.Author);
-                command.Parameters.AddWithValue("@Price", book.Price);
+                    command.Parameters.AddWithValue("Name", book.Name);
+                    command.Parameters.AddWithValue("Author", book.Author);
+                    command.Parameters.AddWithValue("Price", book.Price);
+                    command.Parameters.AddWithValue("ImageUrl", string.IsNullOrEmpty(book.ImageUrl) ? DBNull.Value : (object)book.ImageUrl);
 
-                command.ExecuteNonQuery();
+                    command.ExecuteNonQuery();
+                }
             }
 
             return RedirectToAction("Listar");
@@ -120,47 +135,55 @@ namespace bookStore.Controllers
         [HttpGet]
         public IActionResult Editar(int id)
         {
-            using (SqlConnection connection = new SqlConnection(cadena))
+            using (var connection = new NpgsqlConnection(cadena))
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("sp_GetBookById", connection);
-                command.CommandType = CommandType.StoredProcedure;
-
-                command.Parameters.AddWithValue("@Id", id);
-
-                SqlDataReader reader = command.ExecuteReader();
-
-                if (reader.Read())
+                using (var command = new NpgsqlCommand("SELECT * FROM sp_GetBookById(@BookId)", connection))
                 {
-                    Book book = new Book()
-                    {
-                        Id = reader.GetInt32(0),
-                        Name = reader.GetString(1),
-                        Author = reader.GetString(2),
-                        Price = reader.GetDecimal(3)
-                    };
+                  
 
-                    return View(book);
+                    command.Parameters.AddWithValue("BookId", id);
+
+                    using (var reader = command.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            Book book = new Book()
+                            {
+                                Id = reader.GetInt32(0),
+                                Name = reader.GetString(1),
+                                Author = reader.GetString(2),
+                                Price = reader.GetDecimal(3),
+                                ImageUrl = reader.IsDBNull(4) ? null : reader.GetString(4)
+                            };
+
+                            return View(book);
+                        }
+                    }
                 }
             }
 
             return RedirectToAction("Listar");
         }
+
         [HttpPost]
         public IActionResult Editar(Book book)
         {
-            using (SqlConnection connection = new SqlConnection(cadena))
+            using (var connection = new NpgsqlConnection(cadena))
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("sp_UpdateBook", connection);
-                command.CommandType = CommandType.StoredProcedure;
+                using (var command = new NpgsqlCommand("SELECT sp_UpdateBook(@Id, @Name, @Author, @Price, @ImageUrl)", connection))
+                {
+                    
 
-                command.Parameters.AddWithValue("@Id", book.Id);
-                command.Parameters.AddWithValue("@Name", book.Name);
-                command.Parameters.AddWithValue("@Author", book.Author);
-                command.Parameters.AddWithValue("@Price", book.Price);
+                    command.Parameters.AddWithValue("Id", book.Id);
+                    command.Parameters.AddWithValue("Name", book.Name);
+                    command.Parameters.AddWithValue("Author", book.Author);
+                    command.Parameters.AddWithValue("Price", book.Price);
+                    command.Parameters.AddWithValue("ImageUrl", (object)book.ImageUrl ?? DBNull.Value);
 
-                command.ExecuteNonQuery();
+                    command.ExecuteNonQuery();
+                }
             }
 
             return RedirectToAction("Listar");
@@ -169,31 +192,29 @@ namespace bookStore.Controllers
         [HttpPost]
         public IActionResult Eliminar(int id)
         {
-            using (SqlConnection connection = new SqlConnection(cadena))
+            using (var connection = new NpgsqlConnection(cadena))
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("sp_DeleteBook", connection);
-                command.CommandType = CommandType.StoredProcedure;
+                using (var command = new NpgsqlCommand("SELECT sp_DeleteBook(@Id)", connection))
+                {
+                   
 
-                command.Parameters.AddWithValue("@Id", id);
+                    command.Parameters.AddWithValue("Id", id);
 
-                command.ExecuteNonQuery();
+                    command.ExecuteNonQuery();
+                }
             }
 
             return RedirectToAction("Listar");
         }
 
-
+        //Experimental
         Book buscar(int id)
         {
-            Book reg= ListarLibrosEnumerable().Where(p=>p.Id == id).FirstOrDefault();
-            if(reg == null)
-            {
-                reg = new Book();
-
-            }
-            return reg;
+            Book reg = ListarLibrosEnumerable().Where(p => p.Id == id).FirstOrDefault();
+            return reg ?? new Book();
         }
+
         public async Task<IActionResult> Agregar(int id = 0)
         {
             return View(await Task.Run(() => buscar(id)));

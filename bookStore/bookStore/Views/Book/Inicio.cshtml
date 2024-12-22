@@ -1,274 +1,119 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Inicio";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
 @model IEnumerable<bookStore.Models.Book>
 
-
-<link rel="stylesheet" href="~/css/EcommerceStyle.css" asp-append-version="true" />
-<link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+<link rel="stylesheet" href="~/css/concavo.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/cartSidebar.css" asp-append-version="true" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-  
 
-
-
-<!--FULL PAGE SLIDER-->
-
-<ul id="#adaptive" class="cs-hidden">
-    <!--BOX 1-->
-    <li class="item-a">
-        <!--BOX-->
-        <div class="full-slider-box f-slide-1">
-            <div class="slider-text-container">
-                <div class="f-slider-text">
-                    <span>Oferta ilimitada</span>
-                    <strong>
-                        30% desc <br />
-                        con <font>codigo de promocion</font>
-                    </strong>
-                    <a href="#" class="f-slider-btn">Comprar</a>
-                </div>
+<section class="hero">
+    <div class="main">
+        <div class="content">
+            <small>Regreso a clases</small>
+            <h2>50% de descuento especial</h2>
+            <h5>para nuestra comunidad estudiantil</h5>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
+                maiores? Eius culpa molestias expedita magni incidunt necessitatibus.
+            </p>
+            <div class="btns">
+                <button>Obtener la Oferta <i class="fa-solid fa-arrow-right"></i></button>
+                <button>Ver otras Promociones</button>
             </div>
         </div>
-    </li>
-</ul>
-
-<!--end of FULL PAGE SLIDER-->
-
-<section class="product-list">
-    <div class="container">
-        <h2 class="product-title">Prodcutos destacados</h2>
-        <div class="row">
-            <!--STRT ITEM-->
-            @foreach(var item in Model)
-            {
-                <div class="item">
-                    <div class="product">
-                        <div class="product-thumb">
-                            <img src="@Url.Content(string.Format("~/imagenes/{0}.jpg",   item.Id))"
-                             alt=""
-                             class="pro-thumb-img" />
-
-                            <div class="product-styles">
-                                <span class="active-style"
-                                  data-image="https://d2p7wwv96gt4xt.cloudfront.net/G/B613F7F2/EAN-9780316556323"
-                                  style="background-color: darkslategray"></span>
-
-                                <span class=""
-                                  data-image="https://d2p7wwv96gt4xt.cloudfront.net/G/2BD9E741/EAN-9780143111061"
-                                  style="background-color: deeppink"></span>
-
-                                <span class=""
-                                  data-image="https://d2p7wwv96gt4xt.cloudfront.net/G/7B2AD68D/EAN-9780425285978"
-                                  style="background-color: dodgerblue"></span>
-                            </div>
-                            <div class="product-button">
-                                <a href="#" title="Quick View">
-                                    <i class="fas fa-eye"></i>
-                                </a>
-
-                                <!-- 
-                                <a href="#" title="Add To Cart">
-                                    <i class="fas fa-shopping-bag"></i>
-                                </a>
-
-                                <a href="@Url.Action("Ingresar", "MyBook", new { id = item.Id })" title="Add To Cart">
-                                    <i class="fas fa-shopping-bag"></i>
-                                </a>
-                                -->
-                                <!-- 
-                                <form method="post" asp-controller="MyBook" asp-action="Ingresar">
-                                    <input type="hidden" name="Name" value="@item.Name" />
-                                    <input type="hidden" name="Author" value="@item.Author" />
-                                    <input type="hidden" name="Price" value="@item.Price" />
-
-                                    <button type="submit" title="Add To Cart">
-                                        <i class="fas fa-shopping-bag"></i>
-                                    </button>
-                                </form>
-                                -->
-                                <a href="#" title="Add To Cart" class="add-to-cart" data-id="@item.Id" data-name="@item.Name" data-author="@item.Author" data-price="@item.Price">
-                                    <i class="fas fa-shopping-bag"></i>
-                                </a>
-                               
-
-
-
-                                <a href="#" title="Wishlist">
-                                    <i class="far fa-heart"></i>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div class="product-info">
-                            <h3 class="product-name">@Html.DisplayFor(modelItem => item.Name)</h3>
-                            <p class="product-price first">@Html.DisplayFor(modelItem => item.Price)</p>
-                            <p class="product-price">@Html.DisplayFor(modelItem => item.Price)</p>
-
-                            <div class="off-info">
-                                <h2 class="sm-title">10% OFF</h2>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            }          
-            <!--END ITEM-->
+        <div class="img">
         </div>
     </div>
 </section>
-
-<script>
-    const menu = document.querySelector(".menu");
-    const menuMain = menu.querySelector(".menu-main");
-    const menuTrigger = document.querySelector(".mobile-menu-trigger");
-    const goBack = menu.querySelector(".go-back");
-    const closeMenu = menu.querySelector(".mobile-menu-close");
-
-    let subMenu;
-    menuMain.addEventListener("click", (e) => {
-        if (e.target.closest(".menu-item-has-children")) {
-            const hasChildren = e.target.closest(".menu-item-has-children");
-            showSubMenu(hasChildren);
-        }
-    });
-
-    goBack.addEventListener("click", () => {
-        hideSubMenu();
-    });
-
-    menuTrigger.addEventListener("click", () => {
-        toggleMenu();
-    });
-
-    closeMenu.addEventListener("click", () => {
-        toggleMenu();
-    });
-
-    document.querySelector(".menu-overlay").addEventListener("click", () => {
-        toggleMenu();
-    });
-
-    function toggleMenu() {
-        menu.classList.toggle("active");
-        document.querySelector(".menu-overlay").classList.toggle("active");
-    }
-
-    function showSubMenu(hasChildren) {
-        subMenu = hasChildren.querySelector(".sub-menu");
-        subMenu.classList.add("active");
-        subMenu.style.animation = "slideLeft 0.5s ease forwards";
-        const menuTitle =
-            hasChildren.querySelector("i").parentNode.childNodes[0].textContent;
-        menu.querySelector(".current-menu-title").innerHTML = menuTitle;
-        menu.querySelector(".mobile-menu-head").classList.add("active");
-    }
-
-    function hideSubMenu() {
-        subMenu.style.animation = "slideRight 0.5s ease forwards";
-        setTimeout(() => {
-            subMenu.classList.remove("active");
-        }, 300);
-        menu.querySelector(".current-menu-title").innerHTML = "";
-        menu.querySelector(".mobile-menu-head").classList.remove("active");
-    }
-
-    window.onresize = function () {
-        if (this.innerWidth > 991) {
-            if (menu.classList.containes("active")) {
-                toggleMenu();
+<section class="offer">
+    <div class="header">
+        <h4>Ofertas Especiales</h4>
+<p>
+    Descubre nuestras promociones exclusivas en los mejores libros. 
+    ¡No te lo pierdas!
+</p>
+    </div>
+    <div class="offer-container">
+         @foreach (var item in Model)
+            {
+<div class="offer">
+            <div class="img">
+                <a href="Pages/book-detail.html"><img src="@item.ImageUrl" alt="@item.Name" /></a>
+            </div>
+            <div class="offer-content">
+                <h5>@Html.DisplayFor(modelItem => item.Name)</h5>
+                <div class="genre">
+                    <span>biography</span>
+                    <span>thriller</span>
+                    <span>horror</span>
+                </div>
+                <p>
+                   
+                </p>
+                <small>@Html.DisplayFor(modelItem => item.Author)</small>
+                <div class="offer-bottom">
+                    
+                    <button onclick="addToCart(@item.Id)" class="cartbtn">
+                        <i class="fa-solid fa-cart-shopping"></i>Añadir al Carrito
+                    </button>
+                    <div class="price">
+                        <strong><span></span>@Html.DisplayFor(modelItem => item.Price)</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
             }
+        
+        
+    </div>
+</section>
+
+
+
+<section class="sale">
+    <div class="header">
+        <h4>Oferta Relámpago en Odisea</h4>
+        <p>
+            Descubre descuentos exclusivos en los mejores libros. <br />
+            ¡Una oportunidad que no puedes dejar pasar!
+        </p>
+    </div>
+    <div class="timer">
+        <div class="hours">
+            <span id="hour"></span>
+            <small>Hours</small>
+        </div>
+        <div class="minutes">
+            <span id="minute"></span>
+            <small for="minute">Minutes</small>
+        </div>
+        <div class="seconds">
+            <span id="second"></span>
+            <small for="second">Seconds</small>
+        </div>
+    </div>
+    <div class="book-container">
+        @foreach (var item in Model.TakeLast(5))
+        {
+            <div class="book">
+                <div class="img">
+                    <a href="Pages/book-detail.html"><img src="@item.ImageUrl" alt="@item.Name" />
+                    </a>
+                </div>
+                <h5>@Html.DisplayFor(modelItem => item.Name)</h5>
+                <small>Nuevos</small>
+                <div class="price">
+                    <span>@Html.DisplayFor(modelItem => item.Price)</span>
+                    <span><strike>@Html.DisplayFor(modelItem => item.Price)</strike></span>
+                </div>
+            </div>
         }
-    };
 
-    const productStyles = document.querySelectorAll(".product-styles");
+    </div>
+</section>
+<script src="~/js/cart.js"></script>
 
-    for (let i = 0; i < productStyles.length; i++) {
-        for (let j = 0; j < productStyles[i].children.length; j++) {
-            productStyles[i].children[j].addEventListener("click", function () {
-                const productThumb = this.parentElement.parentElement;
-                const proThumbImage = productThumb.querySelector(".pro-thumb-img");
-                proThumbImage.src = this.getAttribute("data-image");
-                updateStyle(j, this.parentElement);
-            });
-        }
-    }
-
-    function updateStyle(numb, proStyle) {
-        for (let i = 0; i < proStyle.children.length; i++) {
-            if (i == numb) {
-                proStyle.children[i].classList.add("active-style");
-            } else {
-                proStyle.children[i].classList.remove("active-style");
-            }
-        }
-    }
-
-    // Search BUtton
-
-    $(document).on("click", ".search", function () {
-        $(".search-bar").addClass("search-bar-active");
-    });
-
-    $(document).on("click", ".search-cancel", function () {
-        $(".search-bar").removeClass("search-bar-active");
-    });
-
-    //LOGIN SIGN UP FORM
-
-    $(document).on("click", ".user, .already-account", function () {
-        $(".form").addClass("login-active").removeClass("sign-up-active");
-    });
-
-    $(document).on("click", ".sign-up-btn", function () {
-        $(".form").addClass("sign-up-active").removeClass("login-active");
-    });
-
-    $(document).on("click", ".form-cancel", function () {
-        $(".form").removeClass("login-active").removeClass("sign-up-active");
-    });
-
-    // FULL SLIDER SCRIPT
-
-    $(document).ready(function () {
-        $("#adaptive").lightSlider({
-            adaptiveHeight: true,
-            item: 1,
-            slideMargin: 0,
-            loop: true,
-        });
-    });
-</script>
-<script>
-    $(document).ready(function () {
-        $(".add-to-cart").click(function (e) {
-            e.preventDefault();
-
-            var id = $(this).data("id");
-            var name = $(this).data("name");
-            var author = $(this).data("author");
-            var price = $(this).data("price");
-
-            $.ajax({
-                url: '@Url.Action("Ingresar", "MyBook")',
-                type: 'POST',
-                data: {
-                    Name: name,
-                    Author: author,
-                    Price: price
-                },
-                success: function () {
-                    // Aquí puedes realizar alguna acción después de agregar al carrito
-                    alert("Libro agregado al carrito");
-                },
-                error: function () {
-                    // Aquí puedes manejar el error si ocurre algún problema
-                    alert("Error al agregar al carrito");
-                }
-            });
-        });
-    });
-</script>
 

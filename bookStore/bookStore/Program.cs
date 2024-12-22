@@ -1,4 +1,16 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.Extensions.DependencyInjection;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        options.LoginPath = "/login";
+        options.LogoutPath = "/logout";
+        options.AccessDeniedPath = "/acceso-denegado";
+    });
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -6,6 +18,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddSession(option =>
 {
     option.IdleTimeout = TimeSpan.FromSeconds(30);
+    option.Cookie.HttpOnly = true;
+    option.Cookie.IsEssential = true;
 });
 
 var app = builder.Build();
@@ -24,7 +38,7 @@ app.UseStaticFiles();
 app.UseSession();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

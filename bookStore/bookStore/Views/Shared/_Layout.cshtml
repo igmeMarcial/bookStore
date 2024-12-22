@@ -1,282 +1,181 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - bookStore</title>
-    <!-- <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/bookStore.styles.css" asp-append-version="true" />-->
-    <link rel="stylesheet" href="~/css/EcommerceStyle.css" asp-append-version="true" />
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    
+    <link rel="stylesheet" href="~/css/concavo.css" asp-append-version="true" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </head>
+
+
 <body>
-    <header class="header">
-        <!--UPPER BAR-->
-        <div class="social-call">
-            <div class="social">
-                <a href="https://www.facebook.com/TeamIgmeMusic/">
-                    <i class="fab fa-facebook"></i>
-                </a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
-                <a href="#">
-                    <i class="fab fa-instagram"></i>
-                </a>
-                <a href="#">
-                    <i class="fab fa-twitter"></i>
-                </a>
-            </div>
-            <div class="phone">
-                <span>Call +51 964 350 071</span>
-            </div>
-        </div>
-        <!--END OF UPPER BAR-->
-        <div class="container">
-            <div class="row v-center">
-                <div class="header-item item-left">
-                    <div class="logo"><a href="#">EbookMarket</a></div>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <div class="logo-header">
+                    <h4><a href="/">Odisea</a></h4>
+                    <small>Tu Portal Literario</small>
                 </div>
-                <div class="header-item item-center">
-                    <div class="menu-overlay"></div>
-                    <nav class="menu">
-                        <div class="mobile-menu-head">
-                            <div class="go-back"><i class="fas fa-angle-left"></i></div>
-                            <div class="current-menu-title"></div>
-                            <div class="mobile-menu-close">&times;</div>
+            </div>
+            <ul class="nav-list">
+                <div class="logo">
+                    <div class="title">
+                        <div class="img">
+                            <img src="images/logo.png" alt="Logo" />
                         </div>
-                        <ul class="menu-main">
-                            <li>
-                                <a href="#">Precios</a>
-                            </li>
-
-                            <li class="menu-item-has-children">
-                                <a href="#">Destacados <i class="fas fa-angle-down"></i></a>
-                                <div class="sub-menu mega-menu mega-menu-column-4">
-                                    <div class="list-item text-center">
-                                        <a href="#">
-                                            <img class="show-img"
-                                                 src="./imagenes/1.jpg"
-                                                 alt="" />
-                                            <h2 class="title">Novela</h2>
-                                        </a>
-                                    </div>
-
-                                    <div class="list-item text-center">
-                                        <a href="#">
-                                            <img class="show-img"
-                                                 src="./imagenes/2.jpg"
-                                                 alt="" />
-                                            <h2 class="title">Ciencia ficción</h2>
-                                        </a>
-                                    </div>
-
-                                    <div class="list-item text-center">
-                                        <a href="#">
-                                            <img class="show-img"
-                                                 src="./imagenes/3.jpg"
-                                                 alt="" />
-                                            <h2 class="title">Fantasía</h2>
-                                        </a>
-                                    </div>
-
-                                    <div class="list-item text-center">
-                                        <a href="#">
-                                            <img class="show-img"
-                                                 src="./imagenes/4.jpg"
-                                                 alt="" />
-                                            <h2 class="title">Romance</h2>
-                                        </a>
-                                    </div>
-
-                                    <div class="list-item text-center">
-                                        <a href="#">
-                                            <img class="show-img"
-                                                 src="./imagenes/5.jpg"
-                                                 alt="" />
-                                            <h2 class="title">Terror</h2>
-                                        </a>
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li class="menu-item-has-children">
-                                <!--SALE LABEL-->
-                                <div class="sale-design">
-                                    <span class="sale-label">Sale</span>
-                                </div>
-
-                                <a asp-area="" asp-controller="Book" asp-action="Inicio"> Productos <i class="fas fa-angle-down"></i></a>
-                                <div class="sub-menu mega-menu mega-menu-column-4">
-                                    <div class="list-item">
-                                        <h2 class="title">Terror</h2>
-                                        <ul>
-                                            <li><a href="#">El Exorcista</a></li>
-                                            <li><a href="#">Drácula</a></li>
-                                            <li><a href="#">It</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="list-item">
-                                        <h2 class="title">Ciencia Ficción</h2>
-                                        <ul>
-                                            <li><a href="#">1984</a></li>
-                                            <li><a href="#">Dune</a></li>
-                                            <li><a href="#">Fahrenheit 451</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="list-item">
-                                        <h2 class="title">Fantasía</h2>
-                                        <ul>
-                                            <li><a href="#">El Señor de los Anillos</a></li>
-                                            <li><a href="#">Canción de Hielo y Fuego</a></li>
-                                            <li><a href="#">Harry Potter</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="list-item">
-                                        <h2 class="title">Misterio</h2>
-                                        <ul>
-                                            <li><a href="#">El Código Da Vinci</a></li>
-                                            <li><a href="#">Asesinato en el Orient Express</a></li>
-                                            <li><a href="#">La Chica del Tren</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="list-item">
-                                        <img src="./imagenes/9.jpg"
-                                             alt="igme" />
-                                    </div>
-                                </div>
-                            </li>
-
-                            <li>
-                                <a asp-area="" asp-controller="Book" asp-action="Ingresar">Agregar Libro</a>
-                            </li>
-
-                            <li>
-                                <a asp-area="" asp-controller="Book" asp-action="Listar">Total Libros</a>
-                            </li>
-                        </ul>
-                    </nav>
+                        <div class="logo-header">
+                            <h4><a href="/">Odisea</a></h4>
+                            <small>Sitio Web de Librería</small>
+                        </div>
+                    </div>
+                    <button class="close"><i class="fa-solid fa-xmark"></i></button>
                 </div>
-                <div class="header-item item-right">
-                    <a href="#" class="search">
-                        <i class="fas fa-search"></i>
+                <li><a href="/">Inicio</a></li>
+                <li>
+                    <a href="/Cart/ShoppingCart" class="cart-icon-link">
+                        <i class="fas fa-shopping-cart"></i>
+                        <span class="cart-count" id="cartCount">0</span>
                     </a>
-                    <a href="#" class="user">
-                        <i class="far fa-user"></i>
-                    </a>
-                    <a  asp-area="" asp-controller="MyBook" asp-action="Listar">
-                        <i class="fas fa-shopping-cart">
-                            <!--NUMBER OF PRODUCTS IN CART-->
-                            <span class="num-cart-product">0 </span>
-                        </i>
-                    </a>
+                </li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a asp-controller="Book" asp-action="Listar">Libros</a></li>
+                    <li><a asp-controller="Book" asp-action="Ingresar">Agregar libro</a></li>
+                }
 
-                    <div class="mobile-menu-trigger">
-                        <span></span>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <span class="user-email">@User.Identity.Name</span>
+                    <a asp-controller="Autenticacion" asp-action="Salir" class="logout-link">Cerrar Sesión</a>
+                }
+                else
+                {
+                    <button class="login"><a asp-controller="Autenticacion" asp-action="Index">Iniciar Sesión</a></button>
+                    <button class="signup">
+                        <i class="fa-solid fa-user"></i><a asp-controller="Autenticacion"
+                            asp-action="Registrar">Registrarse</a>
+                    </button>
+                }
+
+
+            </ul>
+            <div class="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+        </nav>
+    </header>
+    @RenderBody()
+
+    <footer>
+        <div class="container">
+            <div class="logo-description">
+                <div class="logo">
+
+                    <div class="title">
+                        <h4>Odisea</h4>
+                        <small>Sitio Web de Librería</small>
                     </div>
                 </div>
-            </div>
-        </div>
-    </header>
-
-    <!--SEARCH-->
-    <div class="search-bar">
-        <div class="search-input">
-            <input type="text" placeholder="Search For Product" />
-            <a href="#" class="search-cancel">
-                <i class="fas fa-times"></i>
-            </a>
-        </div>
-    </div>
-    <!--END OF SEARCH-->
-    <!--LOGIN & SIGN UP FORM-->
-    <div class="form">
-        <div class="login-form">
-            <!--CANCEL FORM BTN-->
-            <a href="#  " class="form-cancel">
-                <i class="fas fa-times"></i>
-            </a>
-
-            <strong>Iniciar Sesion</strong>
-            <form action="#">
-                <input type="email" placeholder="marcialigme@gmail.com" name="email" />
-                <input type="password" placeholder="Password" name="password" />
-
-                <input type="submit" value="Log In" />
-            </form>
-
-            <!--FORGET & SIGN UP BUTTON-->
-            <div class="form-btns">
-                <a href="#" class="forget">Olvidaste tu contrseña?</a>
-                <a href="#" class="sign-up-btn">Crear cuenta</a>
-            </div>
-            <!--END OF FORGET & SIGN UP-->
-        </div>
-
-        <div class="sign-up-form">
-            <!--CANCEL FORM BTN-->
-            <a href="#" class="form-cancel">
-                <i class="fas fa-times"></i>
-            </a>
-
-            <strong>Iniciar Sesion</strong>
-            <form action="#">
-                <input type="text" placeholder="Nombre" name="fullname" />
-                <input type="email" placeholder="Exemple@gmail.com" name="email" />
-                <input type="password" placeholder="Contraseña" name="password" />
-
-                <input type="submit" value="Sign up" />
-            </form>
-
-            <!--FORGET & SIGN UP BUTTON-->
-            <div class="form-btns">
-                <a href="#" class="already-account">Ya tienes cuenta?</a>
-            </div>
-            <!--END OF FORGET & SIGN UP-->
-        </div>
-    </div>
-    <!--END OF LOGIN & SIGN UP FORM-->
-
-<!-- 
-
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">bookStore</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                <div class="logo-body">
+                    <p>
+                        En Odisea, nos apasionan los libros y las historias que inspiran. Descubre una amplia selección
+                        de obras literarias para todos los gustos y déjanos acompañarte en tu próxima aventura
+                        literaria.
+                    </p>
+                </div>
+                <div class="social-links">
+                    <h4>Síguenos</h4>
+                    <ul class="links">
+                        <li>
+                            <a href=""><i class="fa-brands fa-facebook-f"></i></a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        <li>
+                            <a href=""><i class="fa-brands fa-youtube"></i></a>
+                        </li>
+                        <li>
+                            <a href=""><i class="fa-brands fa-twitter"></i></a>
+                        </li>
+                        <li>
+                            <a href=""><i class="fa-brands fa-linkedin"></i></a>
+                        </li>
+                        <li>
+                            <a href=""><i class="fa-brands fa-instagram"></i></a>
                         </li>
                     </ul>
                 </div>
             </div>
-        </nav>
-        -->
-    
-    
-     
-            @RenderBody()
-        
-   
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - bookStore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="categories list">
+                <h4>Categorías de Libros</h4>
+                <ul>
+                    <li><a href="Pages/book-filter.html">Acción</a></li>
+                    <li><a href="Pages/book-filter.html">Aventura</a></li>
+                    <li><a href="Pages/book-filter.html">Comedia</a></li>
+                    <li><a href="Pages/book-filter.html">Crimen</a></li>
+                    <li><a href="Pages/book-filter.html">Drama</a></li>
+                    <li><a href="Pages/book-filter.html">Fantasía</a></li>
+                    <li><a href="Pages/book-filter.html">Horror</a></li>
+                </ul>
+            </div>
+            <div class="quick-links list">
+                <h4>Enlaces Rápidos</h4>
+                <ul>
+                    <li><a href="index.html">Sobre Nosotros</a></li>
+                    <li><a href="pages/contact.html">Contáctanos</a></li>
+                    <li><a href="pages/book-filter.html">Productos</a></li>
+                    <li><a href="pages/login.html">Iniciar Sesión</a></li>
+                    <li><a href="pages/registration.html">Registrarse</a></li>
+                    <li><a href="pages/cart-item.html">Carrito</a></li>
+                    <li><a href="pages/checkout.html">Pagar</a></li>
+                </ul>
+            </div>
+            <div class="our-store list">
+                <h4>Nuestra Tienda</h4>
+                <div class="map" style="margin-top: 1rem">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1950.236219453554!2d-77.04754570000001!3d-12.0517388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce3d62037d2b%3A0x69de2a256e222213!2sAv.%20Arica%203102%2C%20Bre%C3%B1a%2015023%2C%20Per%C3%BA!5e0!3m2!1ses!2spe!4v1686917463994!5m2!1ses!2spe"
+                        height="70" style="width: 100%; border: none; border-radius: 5px" allowfullscreen=""
+                        loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+                <ul>
+                    <li>
+                        <a href=""><i class="fa-solid fa-location-dot"></i>Av. Arica 3102, Breña,
+                            Lima, Perú</a>
+                    </li>
+                    <li>
+                        <a href=""><i class="fa-solid fa-phone"></i>+51 123456789</a>
+                    </li>
+                    <li>
+                        <a href=""><i class="fa-solid fa-envelope"></i>support@bookoe.pe</a>
+                    </li>
+                </ul>
+            </div>
         </div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <button class="back-to-top"><i class="fa-solid fa-chevron-up"></i></button>
+    <partial name="_CartNotification" />
+    <partial name="_CartSidebar" />
+    <script>
+        window.watsonAssistantChatOptions = {
+            integrationID: "77df033e-c0b9-45b9-aa62-3bd3883806e4",
+            region: "au-syd",
+            serviceInstanceID: "4cfedab9-e4b6-46be-a19d-2cb96237217f",
+            onLoad: async (instance) => { await instance.render(); }
+        };
+        setTimeout(function () {
+            const t = document.createElement('script');
+            t.src = "https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+            document.head.appendChild(t);
+        });
+    </script>
+    <script src="~/js/cart.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
+
 </html>
